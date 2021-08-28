@@ -77,7 +77,6 @@ else:
 input = lambda: sys.stdin.readline().rstrip("\r\n")
 
 # endregion
-
 if __name__ == "__main__":
 
     t=int(input())
